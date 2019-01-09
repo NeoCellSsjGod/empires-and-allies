@@ -19,6 +19,8 @@ Feel free to join and make your own contributions.
 
 
 ## Nostalgia
+[**youtube.com** video](https://www.youtube.com/watch?v=18CHmpdEqYE)
+
 *Zynga continues to expand way beyond the farms that made it famous. On Tuesday, the San Francisco-based social gaming company announced the launch of its first strategy combat game, Empires & Allies.*
 
 *Empires & Allies is the first title to come out of the Los Angeles development studio Zynga opened last year. The game will launch internationally in 12 different languages on Wednesday, June 1.*
