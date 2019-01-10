@@ -23,6 +23,9 @@ Feel free to join and make your own contributions. Our actual objectives are [he
 - Decompile the game to an ActionScript project.
 - Get an original game flash file.
 
+## Working enviroment
+- Flash player projector and debugger: [Adobe Flash player](https://www.adobe.com/support/flashplayer/debug_downloads.html)
+
 ## External Links
 - Wikia.com Empires & Allies: [Wikia](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
 - Archive.com Empires & Allies: [Archive.org](https://archive.org/details/EmpiresAllies)
