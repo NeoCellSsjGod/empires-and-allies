@@ -1,6 +1,6 @@
 ![Empires & Allies](art/Empires_&_Allies_logo.png "Empires & Allies logo")
 
-> Empires and Allies(Facebook) officially closed June 17th, 2013
+> Empires and Allies(Facebook) officially closed June 17th, 2013.
 
 In the absence of a repository collecting game files and information, I've created this one hoping to be able to play again this wonderful game.\
 So, I'm trying to rebuild the 2011-13 version of Empires and Allies.
