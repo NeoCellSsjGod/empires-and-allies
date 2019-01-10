@@ -12,6 +12,10 @@ Feel free to join and make your own contributions. Our actual objectives are [he
 We need colaborators to raise this project.
 If interested, please send an email here: acidcaos1@gmail.com to get full access to the actual project progress.
 
+### Project Contributors
+AcidCaos
+DonanCoyle
+
 ## Index
 -  [Actual **game project** (ActionScript)](ActualProject)
 -  [Images and **art**](art)
