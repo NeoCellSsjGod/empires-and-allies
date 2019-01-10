@@ -8,10 +8,10 @@ Feel free to join and make your own contributions.
 > A good way to start is saving all the icons from the copy done by Wikia still accessible [here](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2).
 
 ## Index
--  [Game **engine**](engine.md)
--  [Game **code** and **Flash** files](code.md)
--  [Images and **art**](art.md)
--  [**Server** stuff](server.md)
+-  [Game **engine**](engine)
+-  [Game **code** and **Flash** files](code)
+-  [Images and **art**](art)
+-  [**Server** stuff](server)
 
 ## External Links
 - Wikia.com Empires & Allies: [Wikia](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
