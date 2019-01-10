@@ -1,4 +1,3 @@
 ## Actual Game
 Here we have the actual game flash file (.swf).\
-You can play online here:
-link
+Download index.html and game.swf in the same folder. You may need the Adobe Flash Player browser plug-in to run it.
