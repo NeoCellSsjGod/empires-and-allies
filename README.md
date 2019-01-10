@@ -9,8 +9,7 @@ Feel free to join and make your own contributions. Our actual objectives are [he
 > A good way to start is saving all the icons from the copy done by Wikia still accessible [here](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2).
 
 ## Index
--  [Game **engine**](engine)
--  [Game **code** and **Flash** files](code)
+-  [Actual **game project** (ActionScript)](ActualProject)
 -  [Images and **art**](art)
 -  [**Server** stuff](server)
 
