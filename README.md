@@ -16,7 +16,7 @@ Feel free to join and make your own contributions.
 ## External Links
 - Wikia.com Empires & Allies: [Wikia](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
 - Archive.com Empires & Allies: [Archive.org](https://archive.org/details/EmpiresAllies)
-
+- Wikipedia page: [Wikipedia](https://en.wikipedia.org/wiki/Empires_%26_Allies)
 
 ## Nostalgia
 [**youtube.com** video](https://www.youtube.com/watch?v=18CHmpdEqYE)
