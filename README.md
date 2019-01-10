@@ -8,6 +8,10 @@ Feel free to join and make your own contributions. Our actual objectives are [he
 
 > A good way to start is saving all the icons from the copy done by Wikia still accessible [here](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2).
 
+## Colaborate
+We need colaborators to raise this project.
+If interested, please send an email here: acidcaos1@gmail.com to get full access to the actual project progress.
+
 ## Index
 -  [Actual **game project** (ActionScript)](ActualProject)
 -  [Images and **art**](art)
