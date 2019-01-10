@@ -4,7 +4,7 @@
 
 In the absence of a repository collecting game files and information, I've created this one hoping to be able to play again this wonderful game.\
 So, I'm trying to rebuild the 2011-13 version of Empires and Allies.
-Feel free to join and make your own contributions.
+Feel free to join and make your own contributions. Our actual objectives are [here](#project).
 
 > A good way to start is saving all the icons from the copy done by Wikia still accessible [here](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2).
 
@@ -13,6 +13,16 @@ Feel free to join and make your own contributions.
 -  [Game **code** and **Flash** files](code)
 -  [Images and **art**](art)
 -  [**Server** stuff](server)
+
+## Project
+
+***Actual objectives***: 
+- Recreate a game server and link the game launcher to it.
+- Transform Facebook social stuff to a new service.
+
+***Done things***: 
+- Decompile the game to an ActionScript project.
+- Get an original game flash file.
 
 ## External Links
 - Wikia.com Empires & Allies: [Wikia](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
