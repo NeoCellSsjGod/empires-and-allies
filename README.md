@@ -24,7 +24,7 @@ DonanCoyle
 ## Project
 
 ***Actual objectives***: 
-- Map, troops and building resources must be recovered. Thes where stored in Zynga's servers, not in the Flash.
+- Map, troops and building resources must be recovered. They where stored somewhere in Zynga's servers, not in the game Flash file.
 - Recreate a game server and link the game launcher to it.
 - Transform Facebook social stuff to a new service.
 
