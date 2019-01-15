@@ -20,7 +20,7 @@ I've found some users who largely contributed, so they may have valuable informa
 - [Moblitz](http://empiresandallies.wikia.com/wiki/User:Moblitz) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Moblitz)
 
 ## Other useful information
-I've just found a **Zynga** Flash old **programmer**: [link](https://www.reddit.com/r/IAmA/comments/1qisin/i_was_a_flash_programmer_at_zynga_for_3_years_ama/) and [link](https://www.reddit.com/comments/11pcvy).
+I've just found a former **Zynga** Flash **programmer**: [link](https://www.reddit.com/r/IAmA/comments/1qisin/i_was_a_flash_programmer_at_zynga_for_3_years_ama/) and [link](https://www.reddit.com/comments/11pcvy).
 
 Check this regularly: [link](https://github.com/Mihapro/Settings/issues/5)
 
