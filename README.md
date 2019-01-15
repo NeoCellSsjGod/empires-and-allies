@@ -8,6 +8,18 @@ Feel free to join and make your own contributions. Our actual objectives are [he
 
 > A good way to start is saving all the icons from the copy done by Wikia still accessible [here](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2).
 
+## Information
+Searching in the old Wikia page I found some users who largely contributed, so they may have valuable information and files:
+- [Woolva](http://empiresandallies.wikia.com/wiki/User:Woolva) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Woolva)
+- [Henriquegr](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr)
+- [Robert.Strongfox](http://empiresandallies.wikia.com/wiki/User:Robert.Strongfox) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Robert.Strongfox)
+- [Moblitz](http://empiresandallies.wikia.com/wiki/User:Moblitz) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Moblitz)
+
+
+Here we have the [Special Files List (Wikia)](http://empiresandallies.wikia.com/wiki/Special:ListFiles?dir=prev) starting from the end, as the new are from the new game ones. 
+
+
+
 ## Colaborate
 We need colaborators to raise this project.
 If interested, please send an email here: acidcaos1@gmail.com to get full access to the actual project progress.
