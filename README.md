@@ -16,7 +16,9 @@ Searching in the old Wikia page I found some users who largely contributed, so t
 - [Moblitz](http://empiresandallies.wikia.com/wiki/User:Moblitz) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Moblitz)
 
 
-Here we have the [Special Files List (Wikia)](http://empiresandallies.wikia.com/wiki/Special:ListFiles?dir=prev) starting from the end, as the new are from the new game ones. 
+Here we have the [Special Files List (Wikia)](http://empiresandallies.wikia.com/wiki/Special:ListFiles?dir=prev) starting from the end, as the new entries are from the new game ones. 
+
+I've just found a **Zynga** Flash old **programmer**: [link](https://www.reddit.com/r/IAmA/comments/1qisin/i_was_a_flash_programmer_at_zynga_for_3_years_ama/) and [link](https://www.reddit.com/comments/11pcvy).
 
 
 
