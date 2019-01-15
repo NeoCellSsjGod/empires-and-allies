@@ -28,7 +28,8 @@ If interested, please send an email here: acidcaos1@gmail.com to get full access
 
 ### Project Contributors
 AcidCaos\
-DonanCoyle
+DonanCoyle\
+XXLuigiMario
 
 ## Index
 -  [Actual **game project** (ActionScript)](ActualProject)
