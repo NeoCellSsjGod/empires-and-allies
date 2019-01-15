@@ -44,7 +44,7 @@ DonanCoyle
 
 ***Done things***: 
 - Decompile the game to an ActionScript project.
-- Get an original game flash file.
+- Get an original game flash file. Credits to XXLuigiMario
 
 ## Working enviroment
 - Flash player projector and debugger: [Adobe Flash player](https://www.adobe.com/support/flashplayer/debug_downloads.html)
