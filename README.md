@@ -20,7 +20,7 @@ Here we have the [Special Files List (Wikia)](http://empiresandallies.wikia.com/
 
 I've just found a **Zynga** Flash old **programmer**: [link](https://www.reddit.com/r/IAmA/comments/1qisin/i_was_a_flash_programmer_at_zynga_for_3_years_ama/) and [link](https://www.reddit.com/comments/11pcvy).
 
-
+Check this regularly: [link](https://github.com/Mihapro/Settings/issues/5)
 
 ## Colaborate
 We need colaborators to raise this project.
