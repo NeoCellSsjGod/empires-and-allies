@@ -6,8 +6,6 @@ In the absence of a repository collecting game files and information, I've creat
 So, I'm trying to rebuild the 2011-13 version of Empires and Allies.
 Feel free to join and make your own contributions. Our actual objectives are [here](#project).
 
-> A good way to start is saving all the icons from the copy done by Wikia still accessible [here](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2).
-
 ## Wikia Information
 - [Wikia.com Empires & Allies](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
 - Here we have the old [Special Files List (Wikia)](http://empiresandallies.wikia.com/wiki/Special:ListFiles?dir=prev) starting from the end. 
