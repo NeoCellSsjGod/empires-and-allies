@@ -14,10 +14,11 @@ Feel free to join and make your own contributions. Our actual objectives are [he
 - The [Wikia administrators](http://empiresandallies.wikia.com/wiki/Wiki_Administrators)
 
 I've found some users who largely contributed, so they may have valuable information and files:
-- [Woolva](http://empiresandallies.wikia.com/wiki/User:Woolva) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Woolva)
-- [Henriquegr](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr)
-- [Robert.Strongfox](http://empiresandallies.wikia.com/wiki/User:Robert.Strongfox) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Robert.Strongfox)
-- [Moblitz](http://empiresandallies.wikia.com/wiki/User:Moblitz) | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Moblitz)
+- [Woolva](http://empiresandallies.wikia.com/wiki/User:Woolva) 2011 - 2013 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Woolva)
+- [Henriquegr](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr)  only 2011 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr)
+- [Robert.Strongfox](http://empiresandallies.wikia.com/wiki/User:Robert.Strongfox)  only 2011 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Robert.Strongfox)
+- [Moblitz](http://empiresandallies.wikia.com/wiki/User:Moblitz)  only 2011 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Moblitz)
+- [Riyo.Adja](http://empiresandallies.wikia.com/wiki/User_blog:Riyo.Adja)  only 2013 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Woolva)
 
 ## Other useful information
 I've just found a former **Zynga** Flash **programmer**: [link](https://www.reddit.com/r/IAmA/comments/1qisin/i_was_a_flash_programmer_at_zynga_for_3_years_ama/) and [link](https://www.reddit.com/comments/11pcvy).
