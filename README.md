@@ -11,7 +11,7 @@ Feel free to join and make your own contributions. Our actual objectives are [he
 - Here we have the old [Special Files List (Wikia)](http://empiresandallies.wikia.com/wiki/Special:ListFiles?dir=prev) starting from the end. 
 - The [Wikia administrators](http://empiresandallies.wikia.com/wiki/Wiki_Administrators)
 
-I've found some users who largely contributed, so they may have valuable information and files:
+I've found some users who have largely contributed, so they may have valuable information and files:
 - [Woolva](http://empiresandallies.wikia.com/wiki/User:Woolva) 2011 - 2013 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Woolva)
 - [Henriquegr](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr)  only 2011 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Henriquegr)
 - [Robert.Strongfox](http://empiresandallies.wikia.com/wiki/User:Robert.Strongfox)  only 2011 | Contributions: [link](http://empiresandallies.wikia.com/wiki/Special:Contributions/Robert.Strongfox)
