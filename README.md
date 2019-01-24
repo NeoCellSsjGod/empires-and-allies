@@ -7,7 +7,7 @@ Feel free to join and make your own contributions. If interested, please send an
 
 ## Actual progress (Updated Wed, 23 Jan 2019)
 - We are currently getting all the files so we can recreate the game enviroment.
-- Every game revised version has 5 main files (from version [109338]([link](https://empire-s.assets.zgncdn.com/assets/109338)):
+- Every game revised version has 5 main files (from version [109338](https://empire-s.assets.zgncdn.com/assets/109338)):
     - [ZGame.109338.swf](https://archive.org/download/EmpiresAllies/ZGame.109338.swf)
     - gameSettings.xml which was stored here: [link](https://empire-s.assets.zgncdn.com/assets/109338/gameSettings.xml)
     - en_US.xml which was stored here: [link](https://empire-s.assets.zgncdn.com/assets/109338/en_US.xml)
