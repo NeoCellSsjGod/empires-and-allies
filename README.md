@@ -13,7 +13,7 @@ Feel free to join and make your own contributions. If interested, please send an
     - en_US.xml which was stored here: [link](https://empire-s.assets.zgncdn.com/assets/109338/en_US.xml)
     - questSettings.xml which was stored here: [link](https://empire-s.assets.zgncdn.com/assets/109338/questSettings.xml)
     - assetIndex.xml (Hash) which was stored here: [link](https://empire-s.assets.zgncdn.com/assets/109338/assetIndex.xml)
-
+- Recreating all the enviroment.
 ## Wikia Information
 - [Wikia.com Empires & Allies](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
 - Here we have the old [Special Files List (Wikia)](http://empiresandallies.wikia.com/wiki/Special:ListFiles?dir=prev) starting from the end. 
