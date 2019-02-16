@@ -5,7 +5,7 @@ We are a small group trying to recover the old Empires & Allies facebook game. W
 
 Feel free to join and make your own contributions. If interested, please send an email here: raisetheempires@gmail.com to get full access to the actual project progress and files.
 
-## Actual progress (Updated Wed, 16 Feb 2019)
+## Actual progress (Updated Sat, 16 Feb 2019)
 - We are currently getting all the files so we can recreate the game enviroment.
 - Every game revised version has 5 main files (from version [109338](https://empire-s.assets.zgncdn.com/assets/109338)):
     - [ZGame.109338.swf](https://archive.org/download/EmpiresAllies/ZGame.109338.swf)
