@@ -3,12 +3,12 @@
 
 We are a small group trying to recover the old Empires & Allies facebook game. We are currently 5 engineers and programmers, and we are working on the latest Flash revision of the game: 109338.
 
-Feel free to join and make your own contributions. If interested, please send an email here: raisetheempires@gmail.com to get full access to the actual project progress and files.
+Feel free to join and make your own contributions. If interested, please send an email here: raisetheempires@gmail.com to get full access to the actual project progress. Files:
 
 ## Actual progress (Updated Sat, 25 May 2019)
 - We are currently getting all the files so we can recreate the game enviroment.
-- Every game revised version has 5 main files (from version [109338](https://empire-s.assets.zgncdn.com/assets/109338)):
-- Checkout all the files we have: [files.zip](files.zip)
+- Checkout all the files we have: [files](files/)
+
 
 ## Wikia Information
 - [Wikia.com Empires & Allies](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
