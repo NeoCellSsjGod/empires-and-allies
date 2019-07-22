@@ -7,8 +7,6 @@ Feel free to join and make your own contributions. If interested, please send an
 
 ## Actual progress (Updated Sat, 25 May 2019)
 - We are currently getting all the files so we can recreate the game enviroment.
-- Checkout all the files we have: [files](https://github.com/AcidCaos/empires-and-allies/tree/master/files)
-
 
 ## Wikia Information
 - [Wikia.com Empires & Allies](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
