@@ -1,12 +1,13 @@
 ![Empires & Allies](art/Empires_&_Allies_logo.png "Empires & Allies logo")
 > Empires and Allies(Facebook) officially closed June 17th, 2013
 
-We are a small group trying to recover the old Empires & Allies facebook game. We are currently 5 engineers and programmers, and we are working on the latest Flash revision of the game: 109338.
+We recovering the old Empires & Allies facebook game. We are currently 5 engineers and programmers working on the latest Flash revision of the game: 109338.
 
 Feel free to join and make your own contributions. If interested, please send an email here: raisetheempires@gmail.com to get full access to the actual project progress.
 
 ## Actual progress (Updated Mon, 22 Jul 2019)
-- We are currently getting all the files so we can recreate the game enviroment.
+- Searching and classifying files.
+- Recreating the game server enviroment.
 
 ## External Links and Tools
 - Wikia.com Empires & Allies: [Wikia](http://empiresandallies.wikia.com/wiki/Empires_%26_Allies_Wiki/Main_2)
