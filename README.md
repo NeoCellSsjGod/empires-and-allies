@@ -1,9 +1,10 @@
 ![Empires & Allies](art/Empires_&_Allies_logo.png "Empires & Allies logo")
 > Empires and Allies(Facebook) officially closed June 17th, 2013
 
-We are recovering the old Empires & Allies facebook game. Currently 4 engineers and programmers working on the latest Flash revision of the game: 109338.
+We are recovering the old Empires & Allies facebook game. Currently working on the latest Flash revision of the game: 109338.
 
-You want to join? Contact us.
+You want to join? Contact us!
+
 Feel free to join and make your own contributions. If interested, please send an email here: **raisetheempires@gmail.com** to get full access to the actual project progress.
 
 ## Actual progress (Updated Fri, 04 Oct 2019)
