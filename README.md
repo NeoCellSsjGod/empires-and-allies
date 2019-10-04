@@ -8,7 +8,7 @@ Feel free to join and make your own contributions. If interested, please send an
 
 ## Actual progress (Updated Fri, 04 Oct 2019)
 - Searching and classifying files.
-- Recreating the game server enviroment.
+- Recreating the game server enviroment and game advancements.
 - Rebuilding the game map's files.
 
 ## External Links and Tools
