@@ -7,7 +7,7 @@ You want to join? Contact us!
 
 Feel free to join and make your own contributions. If interested, please send an email here: **raisetheempires@gmail.com** to get full access to the actual project progress.
 
-## Actual progress (Updated Fri, 04 Oct 2019)
+## Actual progress (Updated Fri, 17 Nov 2019)
 - Searching and classifying files.
 - Recreating the game server enviroment and game advancements.
 - Rebuilding the game map's files.
